@@ -1,4 +1,4 @@
-FROM siri2211/dockertomcat
+FROM siri2211/tomcat
 LABEL Author="prabu"
 LABEL description="Use dockertomcat image as base image for dockertomcat deployment"
 USER root
